@@ -28,7 +28,7 @@ Analysis of summer 22025 3,259 transactions successfully identified a clear path
 Identified a clear path to **$3,900 in incremental revenue** — unlocked not through new hires or external training, but through the expertise already sitting on our own floor.
 
 **During medium and high-volume shifts, the performance gap completely collapses**, with all servers reverting to within 6% of the baseline. This proves that individual sales skills disappear under the pressure of a rush.
-
+![Performance Cliff Analysis](visuals/Performance%20Cliff%20Analysis.png)
 ## 3. Recommendations
 
 **The Wine & Coffee Champion (Server 6):** Server 6 outperforms the house average by a massive 70% in wine and 16% in hot drinks. They should be scheduled to lead a workshop on high-ticket pitching and after-dinner timing.
@@ -38,6 +38,8 @@ Identified a clear path to **$3,900 in incremental revenue** — unlocked not th
 **Targeted Coaching for Server 5:** Server 5 consistently falls 6% to 23% below the baseline across all categories. They require dedicated 1-on-1 shadowing to identify where they are missing core sales opportunities.
 
 **Standardize Dessert & Extras Training:** No server significantly beats the baseline for low-friction add-ons (the entire team hovers within 5% of the average). Since there is no internal champion to learn from, management must design and implement a new, standardized pitching strategy for these items.
+
+![Final Scoreboard](visuals/Heatmap%20-%20Final%20Scoreboard.png)
 
 ---
 *View the code in the `/code` folder 
