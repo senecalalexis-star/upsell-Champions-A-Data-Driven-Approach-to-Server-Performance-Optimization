@@ -28,7 +28,9 @@ Analysis of summer 22025 3,259 transactions successfully identified a clear path
 Identified a clear path to **$3,900 in incremental revenue** — unlocked not through new hires or external training, but through the expertise already sitting on our own floor.
 
 **During medium and high-volume shifts, the performance gap completely collapses**, with all servers reverting to within 6% of the baseline. This proves that individual sales skills disappear under the pressure of a rush.
+
 ![Performance Cliff Analysis](visuals/Performance%20Cliff%20Analysis.png)
+
 ## 3. Recommendations
 
 **The Wine & Coffee Champion (Server 6):** Server 6 outperforms the house average by a massive 70% in wine and 16% in hot drinks. They should be scheduled to lead a workshop on high-ticket pitching and after-dinner timing.
